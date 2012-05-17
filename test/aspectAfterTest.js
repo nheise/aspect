@@ -36,4 +36,4 @@ aspect.after( a, "methodA", function( args, returnValue ) {
 assert.equal( check.returnValue, a.methodA( 'arg1', 'arg2' ), 'original return value must equal' );
 assert.ok( check.callOriginal, 'original was invoked' );
 assert.ok( check.callAspect, 'aspect was invoked' );
-console.log('aspectAfterTest sucessfull.');
+console.log('aspectAfterTest successful.');
