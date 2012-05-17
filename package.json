@@ -2,5 +2,5 @@
   "name": "aspect",
   "version": "v0.0.1",
   "main": "./lib/aspect.js",
-  "description": "Aspect functionality for JavaScript function."
+  "description": "Aspect functionality for JavaScript functions in Node.js."
 }
