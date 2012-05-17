@@ -1,6 +1,6 @@
 {
   "name": "aspect",
   "version": "v0.0.1",
-  "main": "./lib/index.js",
+  "main": "./lib/aspect.js",
   "description": "Aspect functionality for JavaScript function."
 }
