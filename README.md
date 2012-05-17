@@ -1,4 +1,4 @@
 aspect
 ======
 
-Aspect functionality for node.js
+Aspect functionality for JavaScript functions in Node.js
